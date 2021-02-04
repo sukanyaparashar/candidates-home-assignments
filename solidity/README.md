@@ -6,7 +6,7 @@ An exercise in implementing smart contract logic
 
 - `$ npm install`
 
-This repo uses [buidler](https://buidler.dev/). Feel free to use it to as template for your task.
+This repo uses [hardhat](https://hardhat.org/). Feel free to use it to as template for your task.
 
 1. Fork this repo
 2. Work on one of the tasks
